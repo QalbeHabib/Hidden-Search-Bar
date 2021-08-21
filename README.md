@@ -1,4 +1,6 @@
 toggle() Method
+
+
 toggle() is an interesting method. It removes the class if it already exists, otherwise, it adds it to the collection.
 
 
